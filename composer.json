@@ -7,9 +7,9 @@
             "email": "448901948@qq.com"
         }
     ],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "require": {
-    	"snanword/think_framework": "^2.0"
+    	"snanword/think_framework": "^5.1"
     },
     "autoload": {
         "psr-4": {
