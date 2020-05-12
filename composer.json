@@ -1,0 +1,22 @@
+{
+    "name": "snanword/think_captcha",
+    "description": "captcha package for snanword.think_framework",
+    "authors": [
+        {
+            "name": "yunwuxin",
+            "email": "448901948@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    	"snanword/think_framework": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\captcha\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
